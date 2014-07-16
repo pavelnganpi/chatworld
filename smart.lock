@@ -1,0 +1,69 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "iron-router": {},
+      "bootstrap-3": {},
+      "livestamp-hs": {},
+      "iron-router-auth": {},
+      "houston": {
+        "git": "https://github.com/gterrono/houston.git",
+        "branch": "master"
+      },
+      "presence": {},
+      "accounts-ui-bootstrap-3-blaze": {}
+    },
+    "packages": {
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.7.1",
+        "commit": "d1ffb3f06ea4c112132b030f2eb1a70b81675ecb"
+      },
+      "bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
+        "tag": "v3.1.1-1",
+        "commit": "63dd38968828bb8963636df93e9a1c45e2dfe67e"
+      },
+      "livestamp-hs": {
+        "git": "https://github.com/hugesuccess/livestamp.git",
+        "tag": "v0.0.33",
+        "commit": "5db38849310c24bdd77477516e746fc40b9ed338"
+      },
+      "iron-router-auth": {
+        "git": "https://github.com/XpressiveCode/iron-router-auth.git",
+        "tag": "v0.2.1",
+        "commit": "39b5d70326536641bc50a184d195aa3ac49ff4a5"
+      },
+      "houston": {
+        "git": "https://github.com/gterrono/houston.git",
+        "branch": "master",
+        "commit": "9d9109475aa8eedb17f056310eb542f3d31383bc"
+      },
+      "presence": {
+        "git": "https://github.com/dburles/meteor-presence.git",
+        "tag": "v0.4.5",
+        "commit": "163df9a9278c234a0ccbeaad8e4868a4571816c8"
+      },
+      "accounts-ui-bootstrap-3-blaze": {
+        "git": "https://github.com/rajit/meteor-accounts-ui-bootstrap-3.git",
+        "tag": "v0.3.7",
+        "commit": "a40b15f4b6213040accec10df97a7793e3a25225"
+      },
+      "blaze-layout": {
+        "git": "https://github.com/EventedMind/blaze-layout.git",
+        "tag": "v0.2.4",
+        "commit": "b40e9b0612329288d75cf52ad14a7da64bb8618f"
+      },
+      "paginated-subscription": {
+        "git": "https://github.com/tmeasday/meteor-paginated-subscription.git",
+        "tag": "v0.2.2",
+        "commit": "2133a2163575f569f90253f81314f21b2bf08d20"
+      },
+      "spin": {
+        "git": "https://github.com/SachaG/meteor-spin.git",
+        "tag": "v0.2.2",
+        "commit": "3f655f0016228e4195acc784c45d3e3a247dc39f"
+      }
+    }
+  }
+}

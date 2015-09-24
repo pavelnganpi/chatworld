@@ -1,117 +1,119 @@
 {
-type: "FeatureCollection",
-features: [
-{
-type: "Feature",
-geometry: {
-type: "Point",
-coordinates: [
--112.11971469843907,
-33.36944420834164
-]
-},
-properties: {
-id: 0,
-status: "545 2nd Pl",
-street: "pending",
-price: 299727,
-bedrooms: 4,
-bathrooms: 1,
-sq_ft: 1608
+   "type": "FeatureCollection",
+   "features": [
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -112.11971,
+               33.369446
+            ]
+         },
+         "properties": {
+            "id": 0,
+            "status": "545 2nd Pl",
+            "street": "pending",
+            "price": 299727,
+            "bedrooms": 4,
+            "bathrooms": 1,
+            "sq_ft": 1608
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -112.2288,
+               33.46881
+            ]
+         },
+         "properties": {
+            "id": 2,
+            "status": "740 2nd Pl",
+            "street": "pending",
+            "price": 172219,
+            "bedrooms": 5,
+            "bathrooms": 2,
+            "sq_ft": 1208
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -112.11512,
+               33.47676
+            ]
+         },
+         "properties": {
+            "id": 1,
+            "status": "320 Blake St",
+            "street": "active",
+            "price": 123081,
+            "bedrooms": 5,
+            "bathrooms": 3,
+            "sq_ft": 3125
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -112.0878,
+               33.588585
+            ]
+         },
+         "properties": {
+            "id": 3,
+            "status": "533 8th Rd",
+            "street": "pending",
+            "price": 277683,
+            "bedrooms": 5,
+            "bathrooms": 2,
+            "sq_ft": 1431
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -112.283516,
+               33.514153
+            ]
+         },
+         "properties": {
+            "id": 4,
+            "status": "557 4th Cir",
+            "street": "sold",
+            "price": 284196,
+            "bedrooms": 4,
+            "bathrooms": 2,
+            "sq_ft": 3173
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -112.093925,
+               33.450573
+            ]
+         },
+         "properties": {
+            "id": 5,
+            "status": "466 8th Dv",
+            "street": "sold",
+            "price": 115253,
+            "bedrooms": 5,
+            "bathrooms": 2,
+            "sq_ft": 2890
+         }
+      }
+   ]
 }
-},
-{
-type: "Feature",
-geometry: {
-type: "Point",
-coordinates: [
--112.22879647183072,
-33.468811357715914
-]
-},
-properties: {
-id: 2,
-status: "740 2nd Pl",
-street: "pending",
-price: 172219,
-bedrooms: 5,
-bathrooms: 2,
-sq_ft: 1208
-}
-},
-{
-type: "Feature",
-geometry: {
-type: "Point",
-coordinates: [
--112.11512153436901,
-33.476759305937215
-]
-},
-properties: {
-id: 1,
-status: "320 Blake St",
-street: "active",
-price: 123081,
-bedrooms: 5,
-bathrooms: 3,
-sq_ft: 3125
-}
-},
-{
-type: "Feature",
-geometry: {
-type: "Point",
-coordinates: [
--112.08779982484374,
-33.58858496101036
-]
-},
-properties: {
-id: 3,
-status: "533 8th Rd",
-street: "pending",
-price: 277683,
-bedrooms: 5,
-bathrooms: 2,
-sq_ft: 1431
-}
-},
-{
-type: "Feature",
-geometry: {
-type: "Point",
-coordinates: [
--112.28351948295969,
-33.51415333566995
-]
-},
-properties: {
-id: 4,
-status: "557 4th Cir",
-street: "sold",
-price: 284196,
-bedrooms: 4,
-bathrooms: 2,
-sq_ft: 3173
-}
-},
-{
-type: "Feature",
-geometry: {
-type: "Point",
-coordinates: [
--112.09392248468063,
-33.45057358654926
-]
-},
-properties: {
-id: 5,
-status: "466 8th Dv",
-street: "sold",
-price: 115253,
-bedrooms: 5,
-bathrooms: 2,
-sq_ft: 2890
-}
-}]}
